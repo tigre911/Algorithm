@@ -18,6 +18,7 @@
 - [백준 1026 맞는 풀이](./baekjoon_code/BOJ1026_correctSolved.py)
 
 ### Silver5
+- [백준 9237](./baekjoon_code/BOJ9237_solved.py)
 - [백준 10610](./baekjoon_code/BOJ10610_solved.py)
 - [백준 14405](./baekjoon_code/BOJ_14405_solved.py)
 
@@ -50,7 +51,6 @@
   - [백준 2869_참고풀이](./baekjoon_code/BOJ2869_other.py)
   - [백준 1149](./baekjoon_code/BOJ1149_yet.py)
   - [백준 4673](./baekjoon_code/BOJ4673_yet.py)
-  - [백준 9237](./baekjoon_code/BOJ9237_yet.py)
   - [백준 14501](./baekjoon_code/BOJ14501_yet.py)
 
 ## 프로그래머스
