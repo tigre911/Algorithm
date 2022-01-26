@@ -66,6 +66,7 @@
   -[문제 02_1](./This_is_cording_test/gridi02_01.py)
   -[실전문제 01 모험가 길드](./This_is_cording_test/GreedyQ1_모험가길드.py)
   -[실전문제 02 곱하기 혹은 더하기](./This_is_cording_test/GreedyQ2_곱하기혹은더하기.py)
+  -[실전문제 03 문자열 뒤집기](./This_is_cording_test/GreedyQ3_문자열뒤집기.py)
 - 이진탐색
   -[재귀함수를 이용한 이진탐색](./This_is_cording_test/binary_self.py)
   -[반복문을 이용한 이진탐색](./This_is_cording_test/binary_repeat.py)
