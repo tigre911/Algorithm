@@ -19,7 +19,7 @@ count.sort() # 정렬
 print(count)
 
 sum = 0
-for j in range(n-k):
+for j in range(n-k):    #학생수와 조의 수를 빼면 더해야할 키차이의 수가 나온다
     sum += count[j]
 
 print(sum)
