@@ -63,6 +63,7 @@
   - [문제 03](./This_is_cording_test/구현/구현_왕실의나이트.py)
   - [실전문제 07 럭키 스트레이트](./This_is_cording_test/구현/구현Q7_럭키스트레이트.py)
   - [실전문제 08 럭키 스트레이트](./This_is_cording_test/구현/구현Q8_문자열재정렬.py)
+  - [실전문제 09 문자열 압축](./This_is_cording_test/구현/구현Q9_문자열압축.py)
   
   
 - 이진탐색
