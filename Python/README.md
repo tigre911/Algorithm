@@ -41,18 +41,6 @@
 - [백준 10156](./baekjoon_code/BOJ10156_solved.py)
 - [백준 2753](./baekjoon_code/BOJ2753_solved.py)
 
-
-#### 아직 해결하지 못한 문제
-- yet
-  - [백준 1267](./baekjoon_code/BOJ1267_yet.py)
-  - [백준 1712](./baekjoon_code/BOJ1712_yet.py)
-  - [백준 2839](./baekjoon_code/BOJ2839_yet.py)
-  - [백준 2869](./baekjoon_code/BOJ2869_yet.py)
-  - [백준 2869_참고풀이](./baekjoon_code/BOJ2869_other.py)
-  - [백준 1149](./baekjoon_code/BOJ1149_yet.py)
-  - [백준 4673](./baekjoon_code/BOJ4673_yet.py)
-  - [백준 14501](./baekjoon_code/BOJ14501_yet.py)
-
 ## 프로그래머스
 
 ### Level 2
@@ -73,6 +61,8 @@
   - [문제 01](./This_is_cording_test/구현/구현_상하좌우.py)
   - [문제 02](./This_is_cording_test/구현/구현_시각.py)
   - [문제 03](./This_is_cording_test/구현/구현_왕실의나이트.py)
+  - [실전문제 07 럭키 스트레이트](./This_is_cording_test/구현/구현Q7_럭키스트레이트.py)
+  - [실전문제 08 럭키 스트레이트](./This_is_cording_test/구현/구현Q8_문자열재정렬.py)
   
   
 - 이진탐색
