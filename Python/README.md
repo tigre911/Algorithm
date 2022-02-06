@@ -70,5 +70,7 @@
   - [재귀함수를 이용한 이진탐색](./This_is_cording_test/이진탐색/binary_self.py)
   - [반복문을 이용한 이진탐색](./This_is_cording_test/이진탐색/binary_repeat.py)
 - DFS/BFS
-  - [DFS 예제](./This_is_cording_test/DFS_BFS/DFS_EX01.py)
-  - [BFS 예제](./This_is_cording_test/DFS_BFS/BFS_EX01.py)
+  - [DFS 함수](./This_is_cording_test/DFS_BFS/DFS_EX01.py)
+  - [BFS 함수](./This_is_cording_test/DFS_BFS/BFS_EX01.py)
+  - [문제 01](./This_is_cording_test/DFS_BFS/DFS&BFS_음료수얼려먹기.py)
+  - [문제 02](./This_is_cording_test/DFS_BFS/DFS&BFS_미로탈출.py)
