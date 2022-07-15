@@ -16,6 +16,7 @@
 
 ### Silver4
 - [백준 1026 맞는 풀이](./baekjoon_code/BOJ1026_correctSolved.py)
+- [백준 1758 알바생 강호](https://www.acmicpc.net/problem/1758)
 
 ### Silver5
 - [백준 9237](./baekjoon_code/BOJ9237_solved.py)
