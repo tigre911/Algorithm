@@ -13,7 +13,7 @@
 - [백준 6236](./baekjoon_code/BOJ_6236_other.py)
 
 ### Silver3
-
+- [백준 16951 블록 놀이](./baekjoon_code/BOJ_16951.py)
 ### Silver4
 - [백준 1026 맞는 풀이](./baekjoon_code/BOJ1026_correctSolved.py)
 - [백준 1758 알바생 강호](https://www.acmicpc.net/problem/1758)
